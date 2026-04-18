@@ -86,15 +86,32 @@
 ---
 
 ## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-amirulislam/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="45" height="45" style="margin:0 10px;" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/profile.php?id=61587556119982" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" width="45" height="45" style="margin:0 10px;" alt="Facebook"/></a>
-  <a href="https://wa.me/880XXXXXXXXXX" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="45" height="45" style="margin:0 10px;" alt="WhatsApp"/></a>
-  <a href="mailto:amirulislambd313@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="45" height="45" style="margin:0 10px;" alt="Gmail"/></a>
-  <!-- Snapchat, TikTok, Instagram, Portfolio লিংক যোগ করো -->
+  <table align="center" border="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/m-amirulislam/" target="_blank">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="45" height="45" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.facebook.com/profile.php?id=61587556119982" target="_blank">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" width="45" height="45" alt="Facebook"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/880XXXXXXXXXX" target="_blank">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:amirulislambd313@gmail.com">
+          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="45" height="45" alt="Gmail"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
-
 ---
 
 <div align="center">
