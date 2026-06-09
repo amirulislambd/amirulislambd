@@ -16,13 +16,30 @@
 
 ## 📌 About Me
 
+- 🎓 Former teacher turned Full Stack Developer — communication and teamwork come naturally to me.
 - 🌱 Currently diving deep into **Advanced React, Next.js 15 (App Router)**, and performance optimization.
 - 👯 Open to collaborating on **Open Source Projects** and exciting full-stack applications.
-- 💬 Ask me about **React, Tailwind CSS, Next.js, or MERN Stack**.
+- 💬 Ask me about **React, Tailwind CSS, Next.js, BetterAuth, or MERN Stack**.
 - ⚡ Fun fact: I document my coding journey through short videos and love sharing tips with the community.
 
 **🌍 Location:** Dhaka, Bangladesh  
 **📧 Email:** amirulislambd313@gmail.com
+
+---
+
+## 🚀 My Journey
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 🎓 | **Teacher** — Built strong communication, patience & leadership skills |
+| 💡 | **Discovered Coding** — Started with HTML, CSS & JavaScript out of curiosity |
+| ⚛️ | **Fell in love with React** — Learned React, Next.js and the MERN stack |
+| 🛠️ | **Built Real Projects** — Veluxora, ZapShift & Mango Books (live & deployed) |
+| 🚀 | **Full Stack Developer** — Now building scalable web apps professionally |
+
+</div>
 
 ---
 
@@ -36,6 +53,7 @@
 ### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript (Learning)" />
 </p>
 
 ### Frontend
@@ -52,6 +70,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Auth & Services
+<p align="center">
+  <img src="https://img.shields.io/badge/BetterAuth-6D28D9?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 ### Tools
@@ -85,6 +109,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <table align="center" border="0" cellpadding="10">
@@ -100,7 +134,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/880XXXXXXXXXX" target="_blank">
+        <a href="https://wa.me/8801928570020" target="_blank">
           <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/>
         </a>
       </td>
@@ -112,6 +146,7 @@
     </tr>
   </table>
 </p>
+
 ---
 
 <div align="center">
