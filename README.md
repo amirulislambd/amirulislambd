@@ -110,6 +110,10 @@
 ---
 
 ## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/amirulislambd.svg)](https://wakatime.com/@amirulislambd)
 
 ## 💬 Dev Quote
