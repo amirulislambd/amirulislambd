@@ -109,6 +109,10 @@
 
 ---
 
+## ⏱️ This Week I Spent My Time On
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 💬 Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
