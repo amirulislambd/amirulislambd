@@ -100,12 +100,11 @@
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=amirulislambd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amirulislambd&theme=radical&radius=10" alt="Activity Graph" />
 </p>
+</p>
+
+
 
 ---
 
@@ -164,7 +163,7 @@ No Activity Tracked This Week
  Last Updated on 09/06/2026 22:33:40 UTC
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/amirulislambd.svg)](https://wakatime.com/@amirulislambd)
+[![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
 
 ## 💬 Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
