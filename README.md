@@ -109,13 +109,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 💬 Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amirulislambd/amirulislambd/output/github-snake.svg" />
-</picture>
+## 🌍 Visitor Count
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Famirulislambd&label=Profile%20Visitors&countColor=%23263759&style=flat)
 
 ---
 
