@@ -113,13 +113,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 146.3 kB Used in GitHub's Storage 
+> 📦 146.4 kB Used in GitHub's Storage 
  > 
-> 🏆 488 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -127,12 +127,40 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+🌆 Daytime                129 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+🌃 Evening                137 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
+🌙 Night                  125 commits         ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Wednesday                88 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Thursday                 95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/amirulislambd/amirulislambd/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 04:47:35 UTC
+ Last Updated on 12/06/2026 04:50:40 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
