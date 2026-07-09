@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=35&duration=5000&pause=1000&width=600&center=true&vCenter=true&lines=Hi%2C+I+am+Amirul+Islam;Full+Stack+Web+Developer;MERN+%7C+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=35&duration=5000&pause=1000&width=600&center=true&vCenter=true&lines=Hi%2C+I+am+M.+Amirul+Islam;Full+Stack+Web+Developer;MERN+%7C+Next.js+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
-<h3 align="center">MERN Stack Developer | Building modern and scalable web experiences</h3>
+<h3 align="center">Full Stack Developer | Building modern, scalable & production-ready web experiences</h3>
 
 <p align="center">
   <a href="https://github.com/amirulislambd"><img src="https://komarev.com/ghpvc/?username=amirulislambd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
@@ -23,7 +23,8 @@
 - ⚡ Fun fact: I document my coding journey through short videos and love sharing tips with the community.
 
 **🌍 Location:** Dhaka, Bangladesh  
-**📧 Email:** amirulislambd313@gmail.com
+**📧 Email:** amirulislambd313@gmail.com  
+**🔗 Portfolio:** [amirulislam.vercel.app](https://amirulislam.vercel.app)
 
 ---
 
@@ -36,7 +37,7 @@
 | 🎓 | **Teacher** — Built strong communication, patience & leadership skills |
 | 💡 | **Discovered Coding** — Started with HTML, CSS & JavaScript out of curiosity |
 | ⚛️ | **Fell in love with React** — Learned React, Next.js and the MERN stack |
-| 🛠️ | **Built Real Projects** — Veluxora, ZapShift & Mango Books (live & deployed) |
+| 🛠️ | **Built Real Projects** — GymVortex, Veluxora & ZapShift (live & deployed) |
 | 🚀 | **Full Stack Developer** — Now building scalable web apps professionally |
 
 </div>
@@ -102,9 +103,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amirulislambd&theme=radical&radius=10" alt="Activity Graph" />
 </p>
-</p>
-
-
 
 ---
 
@@ -115,52 +113,44 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 156.7 kB Used in GitHub's Storage 
- > 
+> 📦 156.7 kB Used in GitHub's Storage
+>
 > 🏆 670 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 55 Public Repositories
+>
+> 🔑 0 Private Repositories
+
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-🌆 Daytime                187 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌃 Evening                201 commits         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌙 Night                  169 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Wednesday                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Thursday                 135 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Saturday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+🌆 Daytime                187 commits         ████████░░░░░░░░░░░░░░░░░   30.21 %
+🌃 Evening                201 commits         ████████░░░░░░░░░░░░░░░░░   32.47 %
+🌙 Night                  169 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+Monday                   124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Wednesday                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 %
+Thursday                 135 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 %
+Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Saturday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
 ```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/amirulislambd/amirulislambd/main/assets/bar_graph.png)
 
-
- Last Updated on 09/07/2026 04:00:50 UTC
+Last Updated on 09/07/2026 04:00:50 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
@@ -183,18 +173,13 @@ No Activity Tracked This Week
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/profile.php?id=61587556119982" target="_blank">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" width="45" height="45" alt="Facebook"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/8801928570020" target="_blank">
-          <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="mailto:amirulislambd313@gmail.com">
           <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" width="45" height="45" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://amirulislam.vercel.app" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/domain.png" width="45" height="45" alt="Portfolio"/>
         </a>
       </td>
     </tr>
