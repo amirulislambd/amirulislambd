@@ -113,44 +113,52 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 156.7 kB Used in GitHub's Storage
->
-> 🏆 670 Contributions in the Year 2026
->
+> 📦 156.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 673 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 55 Public Repositories
->
-> 🔑 0 Private Repositories
-
-**I'm a Night 🦉**
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-🌆 Daytime                187 commits         ████████░░░░░░░░░░░░░░░░░   30.21 %
-🌃 Evening                201 commits         ████████░░░░░░░░░░░░░░░░░   32.47 %
-🌙 Night                  169 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 %
+🌞 Morning                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌆 Daytime                188 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
+🌃 Evening                203 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌙 Night                  169 commits         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 138 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Saturday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 ```
 
-📅 **I'm Most Productive on Thursday**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-Monday                   124 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-Tuesday                  61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Wednesday                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 %
-Thursday                 135 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 %
-Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Saturday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Sunday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+💬 Programming Languages: 
+No Activity Tracked This Week
 ```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/amirulislambd/amirulislambd/main/assets/bar_graph.png)
 
-Last Updated on 09/07/2026 04:00:50 UTC
+
+ Last Updated on 10/07/2026 04:00:44 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
