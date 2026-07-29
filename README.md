@@ -125,46 +125,12 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-🌆 Daytime                222 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-🌃 Evening                248 commits         ████████░░░░░░░░░░░░░░░░░   32.12 % 
-🌙 Night                  211 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Wednesday                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 163 commits         █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/amirulislambd/amirulislambd/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:20:47 UTC
+ Last Updated on 29/07/2026 03:22:47 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
