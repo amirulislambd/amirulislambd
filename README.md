@@ -19,7 +19,7 @@
 - 🎓 Former teacher turned Full Stack Developer — communication and teamwork come naturally to me.
 - 🌱 Currently diving deep into **Advanced React, Next.js 15 (App Router)**, and performance optimization.
 - 👯 Open to collaborating on **Open Source Projects** and exciting full-stack applications.
-- 💬 Ask me about **React, Tailwind CSS, Next.js, BetterAuth, or MERN Stack**.
+- 💬 Ask me about **React, Tailwind CSS, Next.js, PostgreSQL, Prisma, BetterAuth, or MERN Stack**.
 - ⚡ Fun fact: I document my coding journey through short videos and love sharing tips with the community.
 
 **🌍 Location:** Dhaka, Bangladesh  
@@ -71,8 +71,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
-
 ### Auth & Services
 <p align="center">
   <img src="https://img.shields.io/badge/BetterAuth-6D28D9?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
