@@ -112,7 +112,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -165,7 +165,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/amirulislambd/amirulislambd/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 05:11:05 UTC
+ Last Updated on 01/09/2026 04:47:36 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime](https://img.shields.io/badge/WakaTime-107835?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@amirulislambd)
